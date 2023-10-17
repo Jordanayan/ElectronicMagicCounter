@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "2023-06-01_02-35-41")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2023-06-01_02-35-41.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-07-16_01-57-15")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2023-07-16_01-57-15.kicad_sym")(options "")(descr ""))
+  (lib (name "TL6330AF200Q")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TL6330AF200Q.kicad_sym")(options "")(descr ""))
+)
