@@ -1,0 +1,649 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+                              main.o (ccp_write_io)
+
+Allocating common symbols
+Common symbol       size              file
+
+charmap             0x40              main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .text          0x00000000        0x0 adc.o
+ .data          0x00000000        0x0 adc.o
+ .bss           0x00000000        0x0 adc.o
+ .text.run_adc_sample
+                0x00000000       0x48 adc.o
+ .text          0x00000000        0x0 i2c.o
+ .data          0x00000000        0x0 i2c.o
+ .bss           0x00000000        0x0 i2c.o
+ .text.i2c_read_ack
+                0x00000000       0x1e i2c.o
+ .text.i2c_read_nack
+                0x00000000       0x1e i2c.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.send_hex
+                0x00000000       0x16 main.o
+ .text.send_hex_reading
+                0x00000000       0x34 main.o
+ .text.within   0x00000000       0x22 main.o
+ .text          0x00000000        0x0 serial.o
+ .data          0x00000000        0x0 serial.o
+ .bss           0x00000000        0x0 serial.o
+ .text.serial_write_byte
+                0x00000000        0xe serial.o
+ .text.serial_write_bytes
+                0x00000000       0x2a serial.o
+ .text.serial_write_text
+                0x00000000       0x18 serial.o
+ .text          0x00000000        0x0 ssd1306.o
+ .data          0x00000000        0x0 ssd1306.o
+ .bss           0x00000000        0x0 ssd1306.o
+ .text.send_data
+                0x00000000       0x12 ssd1306.o
+ .text.display_symbol
+                0x00000000       0x2c ssd1306.o
+ .text.display_hex_digit
+                0x00000000       0x2c ssd1306.o
+ .text.display_hex_byte
+                0x00000000       0x24 ssd1306.o
+ .text.display_hex_short
+                0x00000000       0x4a ssd1306.o
+ .text.display_dec_signed
+                0x00000000       0x8e ssd1306.o
+ .text.display_dec_unsigned
+                0x00000000       0x76 ssd1306.o
+ .text.display_text
+                0x00000000       0x2a ssd1306.o
+ .text          0x00000000        0x0 util.o
+ .data          0x00000000        0x0 util.o
+ .bss           0x00000000        0x0 util.o
+ .text.disable_prescaler
+                0x00000000        0xe util.o
+ .text.enable_prescaler
+                0x00000000        0xa util.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00001000         xr
+data             0x00803f00         0x00000100         rw !x
+eeprom           0x00810000         0x00000080         rw !x
+fuse             0x00820000         0x0000000a         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803f00
+                0x00008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+LOAD adc.o
+LOAD i2c.o
+LOAD main.o
+LOAD serial.o
+LOAD ssd1306.o
+LOAD util.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00803f00]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x00001000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00000100]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000080]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xa5c
+ *(.vectors)
+ .vectors       0x00000000       0x34 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000034                . = ALIGN (0x2)
+                0x00000034                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000034        0x0 linker stubs
+ *(.trampolines*)
+                0x00000034                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000034                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000034                __ctors_start = .
+ *(.ctors)
+                0x00000034                __ctors_end = .
+                0x00000034                __dtors_start = .
+ *(.dtors)
+                0x00000034                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000034        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+                0x00000034                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000034        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000040       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                0x00000040                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000050        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ *(.init9)
+ *(.text)
+ .text          0x00000054        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+                0x00000054                __vector_22
+                0x00000054                __vector_1
+                0x00000054                __vector_24
+                0x00000054                __vector_12
+                0x00000054                __bad_interrupt
+                0x00000054                __vector_6
+                0x00000054                __vector_23
+                0x00000054                __vector_25
+                0x00000054                __vector_11
+                0x00000054                __vector_13
+                0x00000054                __vector_17
+                0x00000054                __vector_19
+                0x00000054                __vector_7
+                0x00000054                __vector_5
+                0x00000054                __vector_4
+                0x00000054                __vector_9
+                0x00000054                __vector_2
+                0x00000054                __vector_21
+                0x00000054                __vector_15
+                0x00000054                __vector_8
+                0x00000054                __vector_14
+                0x00000054                __vector_10
+                0x00000054                __vector_16
+                0x00000054                __vector_18
+                0x00000054                __vector_20
+                0x00000056                . = ALIGN (0x2)
+ *(.text.*)
+ .text.init_adc
+                0x00000056       0x26 adc.o
+                0x00000056                init_adc
+ .text.i2c_init
+                0x0000007c       0x12 i2c.o
+                0x0000007c                i2c_init
+ .text.i2c_start
+                0x0000008e       0x10 i2c.o
+                0x0000008e                i2c_start
+ .text.i2c_stop
+                0x0000009e        0xc i2c.o
+                0x0000009e                i2c_stop
+ .text.i2c_write
+                0x000000aa        0xe i2c.o
+                0x000000aa                i2c_write
+ .text.button_test
+                0x000000b8       0x2a main.o
+                0x000000b8                button_test
+ .text.initialize_RTC
+                0x000000e2       0x16 main.o
+                0x000000e2                initialize_RTC
+ .text.clear_RTC
+                0x000000f8       0x20 main.o
+                0x000000f8                clear_RTC
+ .text.go_to_sleep
+                0x00000118       0x52 main.o
+                0x00000118                go_to_sleep
+ .text.take_a_nap
+                0x0000016a       0x20 main.o
+                0x0000016a                take_a_nap
+ .text.__vector_3
+                0x0000018a       0x30 main.o
+                0x0000018a                __vector_3
+ .text.main     0x000001ba      0x330 main.o
+                0x000001ba                main
+ .text.init_serial
+                0x000004ea       0x2e serial.o
+                0x000004ea                init_serial
+ .text.send_command
+                0x00000518       0x16 ssd1306.o
+                0x00000518                send_command
+ .text.write_to_disp
+                0x0000052e       0x16 ssd1306.o
+                0x0000052e                write_to_disp
+ .text.init_display
+                0x00000544       0xb2 ssd1306.o
+                0x00000544                init_display
+ .text.draw_charmap
+                0x000005f6      0x254 ssd1306.o
+                0x000005f6                draw_charmap
+ .text.enable_display_power
+                0x0000084a       0x16 ssd1306.o
+                0x0000084a                enable_display_power
+ .text.disable_display_power
+                0x00000860        0xa ssd1306.o
+                0x00000860                disable_display_power
+ .text.convert_number_to_char
+                0x0000086a        0xc ssd1306.o
+                0x0000086a                convert_number_to_char
+ .text.display_character
+                0x00000876       0x78 ssd1306.o
+                0x00000876                display_character
+ .text.clear_display
+                0x000008ee       0x3a ssd1306.o
+                0x000008ee                clear_display
+ .text.display_large_character
+                0x00000928       0x4c ssd1306.o
+                0x00000928                display_large_character
+ .text.display_large_dec_signed
+                0x00000974       0xc6 ssd1306.o
+                0x00000974                display_large_dec_signed
+ .text.generic_delay
+                0x00000a3a       0x12 util.o
+                0x00000a3a                generic_delay
+ .text.avr-libc
+                0x00000a4c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+                0x00000a4c                ccp_write_io
+                0x00000a58                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000a58        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                0x00000a58                _exit
+                0x00000a58                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000a58        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000a5c                _etext = .
+
+.rodata         0x00008a5c      0x500 load address 0x00000a5c
+ *(.rodata)
+ *(.rodata*)
+ .rodata.character_data
+                0x00008a5c      0x500 ssd1306.o
+ *(.gnu.linkonce.r*)
+
+.data           0x00803f00        0x0 load address 0x00000f5c
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+                0x00803f00                . = ALIGN (0x2)
+                0x00803f00                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00803f00       0x40
+                0x00803f00                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00803f00       0x40 main.o
+                0x00803f00                charmap
+                0x00803f40                PROVIDE (__bss_end, .)
+                0x00000f5c                __data_load_start = LOADADDR (.data)
+                0x00000f5c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00803f40        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00803f40                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 adc.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 i2c.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 serial.o
+ .comment       0x00000030       0x31 ssd1306.o
+ .comment       0x00000030       0x31 util.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x210
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 adc.o
+ .debug_aranges
+                0x00000028       0x48 i2c.o
+ .debug_aranges
+                0x00000070       0x68 main.o
+ .debug_aranges
+                0x000000d8       0x38 serial.o
+ .debug_aranges
+                0x00000110       0xb0 ssd1306.o
+ .debug_aranges
+                0x000001c0       0x30 util.o
+ .debug_aranges
+                0x000001f0       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x345c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x132c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .debug_info    0x0000132c       0xed adc.o
+ .debug_info    0x00001419      0x286 i2c.o
+ .debug_info    0x0000169f      0xd9c main.o
+ .debug_info    0x0000243b      0x154 serial.o
+ .debug_info    0x0000258f      0xbee ssd1306.o
+ .debug_info    0x0000317d      0x232 util.o
+ .debug_info    0x000033af       0xad C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+
+.debug_abbrev   0x00000000     0x1a14
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x1222 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .debug_abbrev  0x00001222       0x95 adc.o
+ .debug_abbrev  0x000012b7       0xf2 i2c.o
+ .debug_abbrev  0x000013a9      0x2d5 main.o
+ .debug_abbrev  0x0000167e       0xbc serial.o
+ .debug_abbrev  0x0000173a      0x1e1 ssd1306.o
+ .debug_abbrev  0x0000191b       0xe5 util.o
+ .debug_abbrev  0x00001a00       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+
+.debug_line     0x00000000     0x1580
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x136 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .debug_line    0x00000136      0x11c adc.o
+ .debug_line    0x00000252      0x1cf i2c.o
+ .debug_line    0x00000421      0x83c main.o
+ .debug_line    0x00000c5d      0x147 serial.o
+ .debug_line    0x00000da4      0x5bb ssd1306.o
+ .debug_line    0x0000135f      0x1b7 util.o
+ .debug_line    0x00001516       0x6a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls\libattiny404.a(ccp_write.o)
+
+.debug_frame    0x00000000      0x488
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 adc.o
+ .debug_frame   0x00000040       0x74 i2c.o
+ .debug_frame   0x000000b4       0xe8 main.o
+ .debug_frame   0x0000019c       0x74 serial.o
+ .debug_frame   0x00000210      0x234 ssd1306.o
+ .debug_frame   0x00000444       0x44 util.o
+
+.debug_str      0x00000000      0xf4f
+ *(.debug_str)
+ .debug_str     0x00000000      0x831 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.10.348/gcc/dev/attiny404/avrxmega3/short-calls/crtattiny404.o
+ .debug_str     0x00000831      0x1a4 adc.o
+                                0x1d8 (size before relaxing)
+ .debug_str     0x000009d5      0x130 i2c.o
+                                0x2cc (size before relaxing)
+ .debug_str     0x00000b05      0x2f8 main.o
+                                0x4ec (size before relaxing)
+ .debug_str     0x00000dfd       0x42 serial.o
+                                0x201 (size before relaxing)
+ .debug_str     0x00000e3f      0x104 ssd1306.o
+                                0x35e (size before relaxing)
+ .debug_str     0x00000f43        0xc util.o
+                                0x272 (size before relaxing)
+
+.debug_loc      0x00000000     0x125f
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x57 adc.o
+ .debug_loc     0x00000057       0x41 i2c.o
+ .debug_loc     0x00000098      0x4f9 main.o
+ .debug_loc     0x00000591      0x110 serial.o
+ .debug_loc     0x000006a1      0xb6f ssd1306.o
+ .debug_loc     0x00001210       0x4f util.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x208
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 adc.o
+ .debug_ranges  0x00000018       0x38 i2c.o
+ .debug_ranges  0x00000050       0x70 main.o
+ .debug_ranges  0x000000c0       0x28 serial.o
+ .debug_ranges  0x000000e8      0x100 ssd1306.o
+ .debug_ranges  0x000001e8       0x20 util.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(TinyTest.elf elf32-avr)
+LOAD linker stubs
